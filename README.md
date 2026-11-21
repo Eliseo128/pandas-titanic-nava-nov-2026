@@ -2,3 +2,7 @@
 pandas titanic
 
 python-tips-and-tricks [hola](https://github.com/josecodetech/python-tips-and-tricks.git)
+
+## ciencia de datos
+
+Ciencia de Datos Profesional [hola]([https://github.com/josecodetech/python-tips-and-tricks.git](https://trabajocientifico.github.io/curso-profesional-ciencia-de-datos/index.html))
