@@ -5,4 +5,4 @@ python-tips-and-tricks [hola](https://github.com/josecodetech/python-tips-and-tr
 
 ## ciencia de datos
 
-Ciencia de Datos Profesional [hola]([https://github.com/josecodetech/python-tips-and-tricks.git](https://trabajocientifico.github.io/curso-profesional-ciencia-de-datos/index.html))
+Ciencia de Datos Profesional [hola](https://trabajocientifico.github.io/curso-profesional-ciencia-de-datos/index.html)
